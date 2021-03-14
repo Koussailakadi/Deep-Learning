@@ -12,6 +12,6 @@ progres: week 2 / 4
 * defrent activation factions
 
 
-thanks to coursera
+thanks to coursera  
 
 

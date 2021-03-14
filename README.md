@@ -1,7 +1,7 @@
 # Deep-Learning
 
 
-## formation en deep learning deeplearning.ai
+## Neural networks and deep learning
  
 Couersera, par Andrew Ng
   
